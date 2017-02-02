@@ -13,7 +13,7 @@ h1 {
   font-weight: bold;
 }
 
-a {
+.building a {
   font-size: 18px;
   color: white;
 }
@@ -41,4 +41,15 @@ h2 {
 .NewYork {
   font-size: 23px;
   font-weight: bold;
+}
+
+.footer {
+  text-align: left;
+  background-color: dimgray;
+  color: white;
+  font-size: 11px;
+}
+
+.footer a {
+  color: white;
 }
