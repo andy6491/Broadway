@@ -23,11 +23,22 @@ h2 {
   font-weight: bold;
 }
 
-#process h3 {
+#process h3,
+#work h3,
+#team h3,
+#contact h3 {
   font-size: 23px;
   font-weight: bold;
 }
 
-#process p {
+#process p,
+#work p,
+#team p ,
+#contact p {
   font-size: 14px;
+}
+
+.NewYork {
+  font-size: 23px;
+  font-weight: bold;
 }
